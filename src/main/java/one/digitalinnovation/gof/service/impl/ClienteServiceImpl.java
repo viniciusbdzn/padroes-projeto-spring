@@ -1,6 +1,5 @@
 package one.digitalinnovation.gof.service.impl;
 
-import io.swagger.v3.oas.annotations.security.SecurityRequirements;
 import one.digitalinnovation.gof.model.Cliente;
 import one.digitalinnovation.gof.model.ClienteRepository;
 import one.digitalinnovation.gof.model.Endereco;
